@@ -1,0 +1,55 @@
+body{
+    
+    font-family: cursive;
+    background:  #ff0099;
+    color: aliceblue;
+}
+title{
+    font-family: cursive;
+    background: white;
+    color: aqua;
+    padding: 50%;
+}
+h1{
+  font-family: cursive;
+    background: white;
+    color: purple;
+        
+}
+
+input[type=text]{
+    border: blueviolet solid medium;
+    color:    mediumvioletred;
+    font-family: arial;
+}
+ 
+a{
+    padding: 5%;
+    color: aqua;
+       font-family: arial;
+}
+
+table{
+            border: white solid medium;
+
+}
+input[type=submit]{
+     border:white solid medium;
+        background:  purple;
+    color:  hotpink;
+    font-family: arial;
+}
+input[type=date]{
+       border: blueviolet solid medium;
+    color:    mediumvioletred;
+    font-family: arial;
+
+
+}
+
+
+select{
+           border: blueviolet solid medium;
+    color:    mediumvioletred;
+    font-family: arial;
+}
